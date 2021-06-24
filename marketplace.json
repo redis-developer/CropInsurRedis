@@ -8,6 +8,14 @@
     "download_url": "https://github.com/redis-developer/CropInsurRedis/archive/refs/heads/main.zip",
     "hosted_url": "", 
     "quick_deploy": "true", 
+    "deploy_buttons": [
+        {
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/CropInsurRedis" 
+        },
+        {
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/CropInsurRedis" 
+        }
+    ],
     "language": ["Python", "Java", "Javascript"],  
     "redis_commands": ["xadd","xack","RG.PYEXECUTE","AI.MODELSET","xgroup","xreadgroup"], 
     "redis_features": ["Caching", "AI/ML", "pub/sub", "Search"],
