@@ -4,8 +4,8 @@
     "rank": 23, 
     "type": "Building Block", 
     "contributed_by": "Community", 
-    "repo_url": "https://github.com/piyushjaincloud2/CropInsurRedis",
-    "download_url": "https://github.com/piyushjaincloud2/CropInsurRedis/archive/refs/heads/main.zip",
+    "repo_url": "https://github.com/redis-developer/CropInsurRedis",
+    "download_url": "https://github.com/redis-developer/CropInsurRedis/archive/refs/heads/main.zip",
     "hosted_url": "", 
     "quick_deploy": "false", 
     "language": ["Python", "Java", "Javascript"],  
@@ -21,5 +21,5 @@
     "youtube_url": "https://www.youtube.com/watch?v=7vx0PYZG4AM",
     "special_tags": ["Hackathon"],
     "verticals": ["Insurance"],   
-    "markdown": "https://github.com/piyushjaincloud2/CropInsurRedis/blob/main/README.md", 
+    "markdown": "https://raw.githubusercontent.com/redis-developer/CropInsurRedis/main/README.md", 
 }
