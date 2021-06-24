@@ -1,6 +1,6 @@
 {
     "app_name": "Dronification of Crop-insurance Powered by Drone, Redis Modules and Cloud technologies",  
-    "description": "Enable Crop Insurance company to generate insurance policy and claim settlement using Drone, Redis and Cloud Technologies to ensure transparency, Quick turn around time with 100% accuracy and client satisfaction.", 
+    "description": "Enable Crop Insurance company to generate insurance policy and claim settlement using RedisJSON + RediSearch + RedisAI + RedisGears", 
     "rank": 23, 
     "type": "Building Block", 
     "contributed_by": "Community", 
