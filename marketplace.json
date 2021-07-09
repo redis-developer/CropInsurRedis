@@ -18,7 +18,7 @@
     ],
     "language": ["Python", "Java", "Javascript"],  
     "redis_commands": ["xadd","xack","RG.PYEXECUTE","AI.MODELSET","xgroup","xreadgroup"], 
-    "redis_features": ["Caching", "AI/ML", "pub/sub", "Search"],
+    "redis_features": ["Caching", "AI/ML", "Pub/Sub"],
     "redis_modules": ["RedisJSON", "RediSearch", "RedisAI", "RedisGears"], 
     "app_image_urls": [
         "https://piyushjaincloud2.github.io/CropInsurRedis/login.png",
