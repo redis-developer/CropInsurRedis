@@ -1,4 +1,4 @@
-## Dronification of Crop Insurer using Drone, Redis and cloud technologies
+## Dronification of Crop Insurer using Drone, Redis and Cloud technologies
 
 Enable Crop Insurance company to generate insurance policy and claim settlement using Drone, Redis and Cloud Technologies to ensure transparency, Quick turn around time with 100% accuracy and client satisfaction.  
 
@@ -61,11 +61,11 @@ Enable Crop Insurance company to generate insurance policy and claim settlement 
 **Cloud and Services**  
 
 - [Azure cloud](https://azure.microsoft.com/en-in/)
-- [Redis Gears](https://redislabs.com/modules/redis-gears/)
-- [Redis AI](https://redislabs.com/modules/redis-ai/)
+- [RedisGears](https://redislabs.com/modules/redis-gears/)
+- [RedisAI](https://redislabs.com/modules/redis-ai/)
 - [Redis Cache](https://redis.io/)
-- [Redis Streaming](https://redis.io/topics/streams-intro)
-- [Dockers](https://www.docker.com/)
+- [Redis Streams](https://redis.io/topics/streams-intro)
+- [Docker](https://www.docker.com/)
 - [Microsoft Airsim](https://microsoft.github.io/AirSim/)
 - [Custom Vision Service](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/)
 
@@ -99,12 +99,3 @@ Sometimes you might face an issue in the inspection screen when you are receivin
 - Export the policy data in `PDF` format.
 
 
-## Application Screenshots
-#### Login page
-![image](https://piyushjaincloud2.github.io/CropInsurRedis/login.png)
-#### Customer Registration page
-![image](https://piyushjaincloud2.github.io/CropInsurRedis/customer-register.png)
-#### Customer List page
-![image](https://piyushjaincloud2.github.io/CropInsurRedis/customer-list.png)
-#### Inspection page
-![image](https://piyushjaincloud2.github.io/CropInsurRedis/inspection-data.png)
