@@ -42,7 +42,7 @@ services:
       - redismod
     command: ['init.py', '--url', 'redis://redismod:6379']
   droan-webapp:
-    build: ./frontend
+    build: ./Frontend
     depends_on:
     - customer-service
     - policy-service
