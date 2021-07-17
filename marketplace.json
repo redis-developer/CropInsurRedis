@@ -1,5 +1,5 @@
 {
-    "app_name": "Dronification of Crop-Insurance Powered by Drone and Cloud",  
+    "app_name": "Dronification of Crop Insurer using Drone, Redis and Cloud",  
     "description": "Enable Crop Insurance company to generate insurance policy and claim settlement using RedisJSON + RediSearch + RedisAI + RedisGears", 
     "rank": "43", 
     "type": "Full App",
