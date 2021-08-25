@@ -77,9 +77,9 @@ docker-compose up
 ```
 ## README.MD for the sub projects
 
-- [Redis_Airsim](https://github.com/piyushjaincloud2/CropInsurRedis/blob/main/Redis_Airsim/README.md)
-- [Frontend](https://github.com/piyushjaincloud2/CropInsurRedis/blob/main/frontend/README.md)
--  [Microservices](https://github.com/piyushjaincloud2/CropInsurRedis/blob/main/microservices/README.md)
+- [Redis_Airsim](https://github.com/redis-developer/CropInsurRedis/blob/main/Redis_Airsim/README.md)
+- [Frontend](https://github.com/redis-developer/CropInsurRedis/blob/main/Frontend/README.md)
+-  [Microservices](https://github.com/redis-developer/CropInsurRedis/blob/main/Microservices/README.md)
 
 ## Troubleshooting
 
