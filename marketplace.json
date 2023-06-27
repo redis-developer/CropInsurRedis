@@ -1,35 +1,58 @@
 {
-    "app_name": "Dronification of Crop Insurer using Drone, Redis and Cloud",  
-    "description": "Enable Crop Insurance company to generate insurance policy and claim settlement using RedisJSON + RediSearch + RedisAI + RedisGears", 
-    "rank": "43", 
+    "app_name": "Dronification of Crop Insurer using Drone, Redis and Cloud",
+    "description": "Enable Crop Insurance company to generate insurance policy and claim settlement using Redis features like JSON, Search and Query,  Triggers and Functions",
+    "rank": "43",
     "featured": true,
     "type": "Full App",
-    "contributed_by": "Community", 
+    "contributed_by": "Community",
     "repo_url": "https://github.com/redis-developer/CropInsurRedis",
     "preview_image_url": "https://raw.githubusercontent.com/redis-developer/CropInsurRedis/master/images/app_preview_image.png",
     "download_url": "https://github.com/redis-developer/CropInsurRedis/archive/refs/heads/main.zip",
-    "hosted_url": "", 
-    "quick_deploy": "false", 
+    "hosted_url": "",
+    "quick_deploy": "false",
     "deploy_buttons": [
         {
-            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/CropInsurRedis" 
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/CropInsurRedis"
         },
         {
-            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/CropInsurRedis" 
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/CropInsurRedis"
         }
     ],
-    "language": ["Python", "Java", "Javascript"],  
-    "redis_commands": ["xadd","xack","RG.PYEXECUTE","AI.MODELSET","xgroup","xreadgroup"], 
-    "redis_features": ["Caching", "AI/ML", "Pub/Sub"],
-    "redis_modules": ["RedisJSON", "RediSearch", "RedisAI", "RedisGears"], 
+    "language": [
+        "Python",
+        "Java",
+        "Javascript"
+    ],
+    "redis_commands": [
+        "xadd",
+        "xack",
+        "RG.PYEXECUTE",
+        "AI.MODELSET",
+        "xgroup",
+        "xreadgroup"
+    ],
+    "redis_use_cases": [
+        "Caching",
+        "AI/ML",
+        "Pub/Sub"
+    ],
+    "redis_features": [
+        "JSON",
+        "Search and Query",
+        "Triggers and Functions"
+    ],
     "app_image_urls": [
         "https://piyushjaincloud2.github.io/CropInsurRedis/login.png",
         "https://piyushjaincloud2.github.io/CropInsurRedis/customer-list.png",
         "https://piyushjaincloud2.github.io/CropInsurRedis/customer-register.png",
         "https://piyushjaincloud2.github.io/CropInsurRedis/inspection-data.png"
-       ], 
+    ],
     "youtube_url": "https://www.youtube.com/watch?v=HDlO-rv-0AQ",
-    "special_tags": ["Hackathon"],
-    "verticals": ["Financial Services"],   
+    "special_tags": [
+        "Hackathon"
+    ],
+    "verticals": [
+        "Financial Services"
+    ],
     "markdown": "https://raw.githubusercontent.com/redis-developer/CropInsurRedis/main/README.md"
 }
